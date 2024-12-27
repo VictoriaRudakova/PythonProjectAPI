@@ -1,0 +1,8 @@
+test:
+  request:
+    baseUrl: https://reqres.in/api
+
+
+
+
+
